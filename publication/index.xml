@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Nikhil Somani</title>
+    <link>https://nsomani.github.io/publication/</link>
+    <description>Recent content in Publications on Nikhil Somani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nikhil Somani</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adapting the search subspace of a particle filter using geometric constraints</title>
+      <link>https://nsomani.github.io/publication/somani2017b/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing Units on Ultra-low-cost Embedded Hardware: Algorithmic Optimizations for Real-time Performance</title>
+      <link>https://nsomani.github.io/publication/nair2017ipu/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/nair2017ipu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An exact solver for geometric constraints with inequalities</title>
+      <link>https://nsomani.github.io/publication/somani2017a/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intuitive Instruction of Industrial Robots: Semantic Process Descriptions for Small Lot Production</title>
+      <link>https://nsomani.github.io/publication/perzylo2016a/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task level robot programming using prioritized non-linear inequality constraints</title>
+      <link>https://nsomani.github.io/publication/somani2016a/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On cognitive robot woodworking in SMErobotics</title>
+      <link>https://nsomani.github.io/publication/haage2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/haage2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orthogonal Image Features for Visual Servoing of a 6-DOF Manipulator with Uncalibrated Stereo Cameras</title>
+      <link>https://nsomani.github.io/publication/cai2016a/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/cai2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object detection using boundary representations of primitive shapes</title>
+      <link>https://nsomani.github.io/publication/somani2015c/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2015c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prioritized Motion-Force Control of Multi-Constraints for Industrial Manipulators</title>
+      <link>https://nsomani.github.io/publication/cai2015a/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/cai2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal human activity recognition for industrial manufacturing processes in robotic workcells</title>
+      <link>https://nsomani.github.io/publication/roitberg2015a/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/roitberg2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward efficient robot teach-in and semantic process descriptions for small lot sizes</title>
+      <link>https://nsomani.github.io/publication/perzylo2015a/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubiquitous semantics: Representing and exploiting knowledge, geometry, and language for cognitive robot systems</title>
+      <link>https://nsomani.github.io/publication/perzylo2015c/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2015c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ontology for {CAD} Data and Geometric Constraints as a Link Between Product Models and Semantic Robot Task Descriptions</title>
+      <link>https://nsomani.github.io/publication/perzylo2015b/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2015b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and semantic modeling of modality preferences in industrial human-robot interaction</title>
+      <link>https://nsomani.github.io/publication/profanter2015a/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/profanter2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint-Based Task Programming with {CAD} Semantics: From Intuitive Specification to Real-Time Control</title>
+      <link>https://nsomani.github.io/publication/somani2015b/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2015b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

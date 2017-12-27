@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikhil Somani on Nikhil Somani</title>
+    <link>https://nsomani.github.io/</link>
+    <description>Recent content in Nikhil Somani on Nikhil Somani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nikhil Somani</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adapting the search subspace of a particle filter using geometric constraints</title>
+      <link>https://nsomani.github.io/publication/somani2017b/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing Units on Ultra-low-cost Embedded Hardware: Algorithmic Optimizations for Real-time Performance</title>
+      <link>https://nsomani.github.io/publication/nair2017ipu/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/nair2017ipu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An exact solver for geometric constraints with inequalities</title>
+      <link>https://nsomani.github.io/publication/somani2017a/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intuitive Instruction of Industrial Robots: Semantic Process Descriptions for Small Lot Production</title>
+      <link>https://nsomani.github.io/publication/perzylo2016a/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task level robot programming using prioritized non-linear inequality constraints</title>
+      <link>https://nsomani.github.io/publication/somani2016a/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On cognitive robot woodworking in SMErobotics</title>
+      <link>https://nsomani.github.io/publication/haage2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/haage2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint Controller Library</title>
+      <link>https://nsomani.github.io/project/constraint-controller-library/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/project/constraint-controller-library/</guid>
+      <description>&lt;p&gt;This is an open-source, BSD licensed library for task level robot control using non-linear inequality constraints. The source code and installation instructions can be found at &lt;a href=&#34;https://github.com/nsomani/constraint-controller-library&#34; target=&#34;_blank&#34;&gt;https://github.com/nsomani/constraint-controller-library&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This implementation is based on concepts described in the following publications:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@inproceedings{Somani2016a,
+	author = {Nikhil Somani, Markus Rickert, Andre Gaschler, Caixia Cai, Alexander Perzylo, Alois Knoll},
+	title = {Task level robot programming using prioritized non-linear inequality constraints},
+	booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+	address = {Daejeon, Republic of Korea},
+	month = {October},
+	year = {2016}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;
+@article{Somani2017a,
+	title = {An exact solver for geometric constraints with inequalities},
+	author = {Nikhil Somani, Markus Rickert, Aloid Knoll},
+	journal = {IEEE Robotics and Automation Letters},
+	year = {2017},
+	month = {April},
+	volume = {2},
+	number = {2},
+	pages = {1148-1155},
+	doi = {10.1109/LRA.2017.2655113},
+	issn = {2377-3766},
+	note = {accepted for presentation at ICRA 2017}
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orthogonal Image Features for Visual Servoing of a 6-DOF Manipulator with Uncalibrated Stereo Cameras</title>
+      <link>https://nsomani.github.io/publication/cai2016a/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/cai2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object detection using boundary representations of primitive shapes</title>
+      <link>https://nsomani.github.io/publication/somani2015c/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2015c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prioritized Motion-Force Control of Multi-Constraints for Industrial Manipulators</title>
+      <link>https://nsomani.github.io/publication/cai2015a/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/cai2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal human activity recognition for industrial manufacturing processes in robotic workcells</title>
+      <link>https://nsomani.github.io/publication/roitberg2015a/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/roitberg2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward efficient robot teach-in and semantic process descriptions for small lot sizes</title>
+      <link>https://nsomani.github.io/publication/perzylo2015a/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubiquitous semantics: Representing and exploiting knowledge, geometry, and language for cognitive robot systems</title>
+      <link>https://nsomani.github.io/publication/perzylo2015c/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2015c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ontology for {CAD} Data and Geometric Constraints as a Link Between Product Models and Semantic Robot Task Descriptions</title>
+      <link>https://nsomani.github.io/publication/perzylo2015b/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2015b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and semantic modeling of modality preferences in industrial human-robot interaction</title>
+      <link>https://nsomani.github.io/publication/profanter2015a/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/profanter2015a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nikhil Somani</title>
+    <link>https://nsomani.github.io/project/</link>
+    <description>Recent content in Projects on Nikhil Somani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nikhil Somani</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Constraint Controller Library</title>
+      <link>https://nsomani.github.io/project/constraint-controller-library/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/project/constraint-controller-library/</guid>
+      <description>&lt;p&gt;This is an open-source, BSD licensed library for task level robot control using non-linear inequality constraints. The source code and installation instructions can be found at &lt;a href=&#34;https://github.com/nsomani/constraint-controller-library&#34; target=&#34;_blank&#34;&gt;https://github.com/nsomani/constraint-controller-library&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This implementation is based on concepts described in the following publications:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@inproceedings{Somani2016a,
+	author = {Nikhil Somani, Markus Rickert, Andre Gaschler, Caixia Cai, Alexander Perzylo, Alois Knoll},
+	title = {Task level robot programming using prioritized non-linear inequality constraints},
+	booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+	address = {Daejeon, Republic of Korea},
+	month = {October},
+	year = {2016}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;
+@article{Somani2017a,
+	title = {An exact solver for geometric constraints with inequalities},
+	author = {Nikhil Somani, Markus Rickert, Aloid Knoll},
+	journal = {IEEE Robotics and Automation Letters},
+	year = {2017},
+	month = {April},
+	volume = {2},
+	number = {2},
+	pages = {1148-1155},
+	doi = {10.1109/LRA.2017.2655113},
+	issn = {2377-3766},
+	note = {accepted for presentation at ICRA 2017}
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
