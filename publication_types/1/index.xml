@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Nikhil Somani</title>
-    <link>https://nsomani.github.io/publication/</link>
-    <description>Recent content in Publications on Nikhil Somani</description>
+    <title>1 on Nikhil Somani</title>
+    <link>https://nsomani.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Nikhil Somani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Nikhil Somani</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://nsomani.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nsomani.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Adapting the search subspace of a particle filter using geometric constraints</title>
-      <link>https://nsomani.github.io/publication/somani2017b/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nsomani.github.io/publication/somani2017b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Processing Units on Ultra-low-cost Embedded Hardware: Algorithmic Optimizations for Real-time Performance</title>
-      <link>https://nsomani.github.io/publication/nair2017ipu/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nsomani.github.io/publication/nair2017ipu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An exact solver for geometric constraints with inequalities</title>
-      <link>https://nsomani.github.io/publication/somani2017a/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nsomani.github.io/publication/somani2017a/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Intuitive Instruction of Industrial Robots: Semantic Process Descriptions for Small Lot Production</title>
@@ -67,15 +40,6 @@
     </item>
     
     <item>
-      <title>Orthogonal Image Features for Visual Servoing of a 6-DOF Manipulator with Uncalibrated Stereo Cameras</title>
-      <link>https://nsomani.github.io/publication/cai2016a/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://nsomani.github.io/publication/cai2016a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Object detection using boundary representations of primitive shapes</title>
       <link>https://nsomani.github.io/publication/somani2015c/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
@@ -99,24 +63,6 @@
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>https://nsomani.github.io/publication/roitberg2015a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward efficient robot teach-in and semantic process descriptions for small lot sizes</title>
-      <link>https://nsomani.github.io/publication/perzylo2015a/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://nsomani.github.io/publication/perzylo2015a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubiquitous semantics: Representing and exploiting knowledge, geometry, and language for cognitive robot systems</title>
-      <link>https://nsomani.github.io/publication/perzylo2015c/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://nsomani.github.io/publication/perzylo2015c/</guid>
       <description></description>
     </item>
     

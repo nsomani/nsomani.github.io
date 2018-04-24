@@ -8,7 +8,111 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Nikhil Somani</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://nsomani.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nikhil Somani</title>
+      <link>https://nsomani.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://nsomani.github.io/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nsomani.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/home/about/</guid>
+      <description>Biography Nikhil Somani is working as a Scientist at the Advanced Re-manufacturing and Technology Centre (ARTC) of the Agency for Science, Technology and Research (A*STAR) in Singapore.
+He worked as the lead for software development for the Changi Aviation Challenge 2 project at TUM CREATE Limited from 2016 to 2018. He worked on the European FP7 research project SMErobotics as a Staff Researcher for TUM’s affiliated research and transfer institute, fortiss GmbH from 2013 to 2016.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://nsomani.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://nsomani.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://nsomani.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://nsomani.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://nsomani.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://nsomani.github.io/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/home/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://nsomani.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://nsomani.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://nsomani.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://nsomani.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://nsomani.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nsomani.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

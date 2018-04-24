@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Nikhil Somani</title>
+    <link>https://nsomani.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Nikhil Somani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nikhil Somani</copyright>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nsomani.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adapting the search subspace of a particle filter using geometric constraints</title>
+      <link>https://nsomani.github.io/publication/somani2017b/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/somani2017b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

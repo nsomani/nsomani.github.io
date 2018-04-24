@@ -50,6 +50,33 @@
     
     <url>
     
+      <loc>https://nsomani.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://nsomani.github.io/publication/perzylo2016a/</loc>
       <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -79,6 +106,51 @@
     
       <loc>https://nsomani.github.io/project/constraint-controller-library/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/post/getting-started/</loc>
+      <lastmod>2017-09-03T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/post/widgets/</loc>
+      <lastmod>2016-04-19T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/post/managing-content/</loc>
+      <lastmod>2016-04-18T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/post/writing-markdown-latex/</loc>
+      <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/post/faq/</loc>
+      <lastmod>2016-04-10T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -212,6 +284,15 @@
     
     <url>
     
+      <loc>https://nsomani.github.io/post/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://nsomani.github.io/publication/cai2013a/</loc>
       <lastmod>2013-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -299,6 +380,26 @@
     
       <loc>https://nsomani.github.io/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/tags/hugo/</loc>
+      <lastmod>2017-09-03T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nsomani.github.io/tags/jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     

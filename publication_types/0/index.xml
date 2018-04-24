@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Nikhil Somani</title>
+    <link>https://nsomani.github.io/publication_types/0/</link>
+    <description>Recent content in 0 on Nikhil Somani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nikhil Somani</copyright>
+    <lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nsomani.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toward efficient robot teach-in and semantic process descriptions for small lot sizes</title>
+      <link>https://nsomani.github.io/publication/perzylo2015a/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubiquitous semantics: Representing and exploiting knowledge, geometry, and language for cognitive robot systems</title>
+      <link>https://nsomani.github.io/publication/perzylo2015c/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/perzylo2015c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
