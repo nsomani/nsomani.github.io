@@ -114,5 +114,14 @@ I am a teaching instructor for the following courses at University X:
       <description></description>
     </item>
     
+    <item>
+      <title>Videos</title>
+      <link>https://nsomani.github.io/home/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/home/videos/</guid>
+      <description>         </description>
+    </item>
+    
   </channel>
 </rss>
