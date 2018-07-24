@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Visual Servoing in a Prioritized Constraint-based Torque Control Framework</title>
+      <link>https://nsomani.github.io/publication/cai2018a/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nsomani.github.io/publication/cai2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adapting the search subspace of a particle filter using geometric constraints</title>
       <link>https://nsomani.github.io/publication/somani2017b/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
@@ -1162,15 +1171,6 @@ y &amp;amp;=&amp;amp; 1+1   \\\\\\
 \end{eqnarray}$$
 &lt;/code&gt;&lt;/pre&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Orthogonal Image Features for Visual Servoing of a 6-DOF Manipulator with Uncalibrated Stereo Cameras</title>
-      <link>https://nsomani.github.io/publication/cai2016a/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://nsomani.github.io/publication/cai2016a/</guid>
-      <description></description>
     </item>
     
   </channel>
